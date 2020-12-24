@@ -1,1 +1,1 @@
-console.log('a');
+console.log('hasil bebersih repo di vscode > folder git kehapus, file beda bgt, hrs init ulang, history ilang > unauthorized even w credentials > merge unrelated commits to form one node again in graph');
