@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "javascripting"
+		},
+		{
+			"path": "Icons8-downloader"
+		},
+		{
+			"path": "youtube_to_mp3_mixtape"
+		},
+		{
+			"path": "chat_analytics"
+		},
+		{
+			"path": "../experiments/igdm"
+		},
+		{
+			"path": "javascripting2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascripting"
+	}
+}
